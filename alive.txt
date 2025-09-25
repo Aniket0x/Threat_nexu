@@ -6,6 +6,7 @@ https://cloudfront-content.myfitnesspal.com
 https://boost.myfitnesspal.com
 https://affiliate25.myfitnesspal.com
 https://buffdudes.myfitnesspal.com
+https://affiliate.myfitnesspal.com
 https://baybayhay.myfitnesspal.com
 https://buzzfeed.myfitnesspal.com
 https://crimesalad.myfitnesspal.com
